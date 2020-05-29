@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 /*-------------------------------- END ----*/
-    
+
     #body-row {
         margin-left: 0;
         margin-right: 0;
@@ -13,6 +13,7 @@
         padding: 0;
         /* flex: unset; */
     }
+
 
     .sidebar-expanded {
         width: 230px;
@@ -58,7 +59,20 @@
         background-color: #132644;
         height: 60px;
     }
-
+    .ini-btn {
+        padding: 4.5rem;
+        height: 60px;
+        background-color: #132644
+    }
+    .espec{
+      color: #fff ;
+      background-color: #132644 ;
+    }
     a.bg-dark {
         background-color: #132644 !important;
+    }
+    .container{
+
+        color: #fff ;
+        background-color: #132644 ;
     }
